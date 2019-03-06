@@ -1,3 +1,10 @@
+DEPRECATED
+==========
+This is no longer supported; it should not be used.
+It was never converted to Comprehensive Theming.
+It is preserved here for archival purposes.
+
+
 Overview
 ========
 This directory stores a default theme for an Open edX instance.
